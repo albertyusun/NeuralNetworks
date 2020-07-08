@@ -3,6 +3,6 @@ Let's build and play around with some neural networks! The goal of this project 
 
 This project was inspired by [Andrew Ng's interview of Tesla Engineer Andrej Karpathy](https://www.youtube.com/watch?v=_au3yw46lcg). Karpathy noted the importance of understanding "what lies under the hood" in pre-existing neural network frameworks that exist today.
 
-# Resources I've used:
+# Resources
 1. [sentdex](https://www.youtube.com/watch?v=Wo5dMEP_BbI)
 2. [stackabuse](https://stackabuse.com/creating-a-neural-network-from-scratch-in-python/)
